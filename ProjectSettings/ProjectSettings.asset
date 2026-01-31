@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 27
+  m_CompanyName: DefaultCompany
+  productName: gta-like-unity-androidf
+  applicationIdentifier:
+    Android: com.example.gtalike.android
+  AndroidMinSdkVersion: 24
+  AndroidTargetSdkVersion: 34
+  AndroidPreferredInstallLocation: 1
+  AndroidTargetArchitectures: 2
+  AndroidTargetDevice: 0
+  defaultScreenOrientation: 3
+  use32BitDisplayBuffer: 0
+  m_StripEngineCode: 1
+  m_MobileRendering: 1
+  m_UseHDRDisplay: 0
+  m_StereoRenderingPath: 0
+  m_ScriptingBackend:
+    Android: 1
+  m_ActiveColorSpace: 0
+  m_UseIncrementalGC: 1
+  m_AllowUnsafeCode: 0
+  scriptingDefineSymbols: {}

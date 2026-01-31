@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!30 &1
+GraphicsSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 13
+  m_Deferred: 0
+  m_CameraRelativeLightCulling: 0
+  m_CameraRelativeShadowCulling: 0
+  m_SRPBatcher: 1
+  m_RenderPipelineAsset: {fileID: 0}
+  m_AlwaysIncludedShaders: []
+  m_PreloadedShaders: []
+  m_ShaderVariantLogLevel: 0
+  m_InstancingStripping: 0
